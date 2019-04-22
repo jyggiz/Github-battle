@@ -7,6 +7,10 @@
 This is the repository for the React project with using Github API for "React Fundamentals" course at [TylerMcGinnis.com](https://tylermcginnis.com/). 
 Create-react-app was not used in this project.
 
+# Demo
+Use the app online at https://github-battle-be7ec.firebaseapp.com/
+![App demo](demo/1.gif)
+
 # How to Use
 
 To clone and run this application, you'll need Git and Node.js (which comes with npm) installed on your computer. From your command line:
