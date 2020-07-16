@@ -54,6 +54,8 @@ $ npm run deploy
 
 # Support
 Reach out to me at one of the following places!
-* Twitter at [@zhigmytov](https://twitter.com/zhigmytov)
+* Twitter at [@jyggiz_](https://twitter.com/jyggiz_)
+* Linkedin at [@timur-zhigmytov](https://www.linkedin.com/in/timur-zhigmytov/)
+* Medium at [@zhygmytov](https://medium.com/@zhygmytov)
 
 
