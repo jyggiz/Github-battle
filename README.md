@@ -1,6 +1,11 @@
-<p align="center">
-<img src="https://camo.githubusercontent.com/81d6ae53ab31b0ff2caaf344f04f3f324c295b70/68747470733a2f2f74796c65726d6367696e6e69732e636f6d2f74796c65726d6367696e6e69735f676c61737365732d3330302e706e67" alt="TylerMcGinnis.com">
-</p>
+<h1 align="center">
+  <a href="https://ui.dev">
+    <img
+      src="https://ui.dev/images/logos/ui.png"
+      alt="UI.dev Logo" width="300" />
+  </a>
+  <br />
+</h1>
 
 # React Course Project(Github battle)
 
