@@ -9,7 +9,7 @@
 
 # React Course Project(Github battle)
 
-This is the repository for the React project with using Github API for "React Fundamentals" course at [TylerMcGinnis.com](https://tylermcginnis.com/). 
+This is the repository for the React project with using Github API for "React Fundamentals" course at [UI.dev](https://ui.dev/). 
 Create-react-app was not used in this project.
 
 # Demo
